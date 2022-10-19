@@ -1,0 +1,121 @@
+body{
+   
+    background-repeat: no-repeat;
+    background-color: lightgray;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+h1{
+    border-style:solid;
+    border-width: medium;
+    border-color: black;
+    border-radius: 10px;
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+#fouette{
+    position: absolute;
+    top: 290px;
+    right: 10px;
+    width: 200px;
+    height: auto;
+}
+#fouette1{
+    color: darkgreen;
+    font-size: 25px;
+}
+#chasse{
+    position: absolute;
+    top: 500px;
+    right: 10px;
+    width: 125px;
+    height: auto;
+}
+#chasse1{
+    color: darkgreen;
+    font-size: 25px;
+}
+#savate{
+    position: absolute;
+    top: 500px;
+    right: 750px;
+    width: 500px;
+    height: auto;
+    
+}
+#charlemont{
+    position: absolute;
+    top: 700px;
+    right: 10px;
+    width: 150px;
+    height: auto;
+}
+#charlemont1{
+    color: darkgreen;
+    font-size: 25px;
+}
+#savate1{
+     text-align: center;
+
+}
+
+#reverse{
+    color: green;
+    font-size: 25px;
+
+
+}
+#reverse1{
+    position: absolute;
+    top: 950px;
+    right: 10px;
+    width: 200px;
+    height: auto;
+}
+p{
+    font-size: 20px;
+}
+#assalto{
+    color: orange;
+    font-size: 25px;
+}
+#precombat{
+    color: orange;
+    font-size: 25px;
+
+}
+#combattimento{
+    color: orange;
+    font-size: 25px;
+
+}
+#savatepro{
+    color: orange;
+    font-size: 25px;
+}
+#ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    text-align: center;
+}
+#li1{
+    float: left;
+    text-align: center;
+}
+#li1 a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+#indice{
+    text-align: center;
+    font-size: 40px;
+}
